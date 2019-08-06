@@ -79,5 +79,5 @@ This is the process I have pushed my lab into Azure:
 I have completed all the category requirements that the exercise has given and the above section provides evidence that shows the results of each item. To see more details about my practice, you can refer to my source code section that has been uploaded to github via the following link:
 See [Github](https://github.com/bminhnguyen1/Lab4-github/tree/master/Lab%204)
 ----
-## Thank for watching
+## Thanks for watching
 
